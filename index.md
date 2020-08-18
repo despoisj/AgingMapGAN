@@ -17,11 +17,11 @@ Existing approaches and datasets for face aging produce results skewed towards t
 
 TODO Video
 
-### High-Resolution Standardized Dataset
+### Supervised: High-Resolution Standardized Dataset
 ![chi1](img/ours_chi1_cropped.jpg)
 ![afr1](img/ours_afr1_cropped.jpg)
 
-### FFHQ
+### Weakly-Supervised: FFHQ
 ![ffhq](img/ffhq_block.jpg)
 
 ### Paper
