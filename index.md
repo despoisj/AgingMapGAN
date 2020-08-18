@@ -1,5 +1,3 @@
-## AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs
-
 ![cau2](img/ours_cau2_cropped.jpg)
 ![ind2](img/ours_ind2_cropped.jpg)
 
