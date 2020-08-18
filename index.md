@@ -1,6 +1,7 @@
 <div>
-    <h2><a style="width:33%" href="https://www.linkedin.com/in/juliendespois/">Julien Despois</a><a style="width:33%" href="https://www.linkedin.com/in/frederic-flament-ph-d-b8aa212/">Frederic Flament</a><a style="width:33%" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/">Matthieu Perrot</a></h2>
+    <h2><a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/juliendespois/">Julien Despois</a><a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/frederic-flament-ph-d-b8aa212/">Frederic Flament</a><a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/">Matthieu Perrot</a></h2>
 </div>
+</br>
 
 ![cau2](img/ours_cau2_cropped.jpg)
 ![ind2](img/ours_ind2_cropped.jpg)
