@@ -4,8 +4,11 @@
     <h2><a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/juliendespois/" target="_blank">Julien Despois</a><a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/frederic-flament-ph-d-b8aa212/" target="_blank">Frederic Flament</a><a style="width: 30%;margin: 5%;" href="https://www.linkedin.com/in/matthieu-perrot-225ab01b/" target="_blank">Matthieu Perrot</a></h2>
 </div>
 
+![loreal](img/loreal_research.png)  
+
+
 ![cau2](img/ours_cau2_cropped.jpg)
-![ind2](img/ours_ind2_cropped.jpg)
+![ind2](img/ours_ind2_cropped.jpg)  
 
 ## Video Summary
 
