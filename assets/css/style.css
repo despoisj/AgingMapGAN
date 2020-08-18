@@ -1,8 +1,9 @@
 ---
 ---
 
+
 @import "{{ site.theme }}";
 
-page-header {
-    padding: 1rem 6rem !important;
+.page-header {
+    padding: 1rem 6rem;
 }
