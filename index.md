@@ -18,13 +18,14 @@ Existing approaches and datasets for face aging produce results skewed towards t
 ## Results
 
 TODO Videos
+
 We recommend viewing the video in full-screen to see the resolution of the image our model can handle.
 <div>
-    <video style="margin: 0 auto; width: 50%" controls>
+    <video style="margin: 0 auto; width: 49%" controls>
       <source src="img/cau.mov">
     Your browser does not support the video tag.
     </video>
-    <video style="margin: 0 auto; width: 50%" controls>
+    <video style="margin: 0 auto; width: 49%" controls>
       <source src="img/cau.mov">
     Your browser does not support the video tag.
     </video>
