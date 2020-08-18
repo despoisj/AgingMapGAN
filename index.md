@@ -30,6 +30,14 @@ We recommend viewing the video in full-screen to see the resolution of the image
     Your browser does not support the video tag.
     </video>
     <video style="margin: 0 auto; width: 49%" controls>
+      <source src="img/ind.mov">
+    Your browser does not support the video tag.
+    </video>
+    <video style="margin: 0 auto; width: 49%" controls>
+      <source src="img/afr.mov">
+    Your browser does not support the video tag.
+    </video>
+    <video style="margin: 0 auto; width: 49%" controls>
       <source src="img/chi.mov">
     Your browser does not support the video tag.
     </video>
