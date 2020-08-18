@@ -19,7 +19,7 @@ Existing approaches and datasets for face aging produce results skewed towards t
 
 TODO Video
 
-<video width="600" height="300" controls>
+<video width="600" height="300" style="margin: 0 auto;" controls>
   <source src="img/cau.mov">
   <source src="img/cau.mov" type="video/mov">
 Your browser does not support the video tag.
