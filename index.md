@@ -16,12 +16,15 @@ Existing approaches and datasets for face aging produce results skewed towards t
 
 
 ## Results
+
+TODO Video
+
 ### High-Resolution Standardized Dataset
 ![chi1](img/ours_chi1_cropped.jpg)
 ![afr1](img/ours_afr1_cropped.jpg)
 
 ### FFHQ
-![ffhq_cau31](img/ffhq_cau3.jpg)![ffhq_afr2](img/ffhq_afr2.jpg)
-![ffhq_chi1](img/ffhq_chi1.jpg)![ffhq_cau5](img/ffhq_cau5.jpg)
+![ffhq](img/ffhq_block.jpg)
 
-TODO Video
+### Paper
+TODO
