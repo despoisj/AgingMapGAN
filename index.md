@@ -28,7 +28,7 @@ Existing approaches and datasets for face aging produce results skewed towards t
 
 ## Results
 
-We recommend viewing the video in full-screen to see the resolution of the image our model can handle.
+We recommend viewing the videos in full-screen to see the generated HD images (1024px).
 <div>
     <video style="margin: 0 auto; width: 49%" controls>
       <source src="img/cau.mov">
