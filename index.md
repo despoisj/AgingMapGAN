@@ -68,4 +68,4 @@ We recommend opening the images in a new tab to see the details.
 </p>
 
 ### Paper & Supplementary Materials
-TBD: Waiting for ECCV 2020 Proceedings
+TBA: Waiting for ECCV 2020 Proceedings
