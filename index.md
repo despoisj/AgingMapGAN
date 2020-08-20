@@ -49,8 +49,12 @@ We recommend viewing the videos in full-screen to see the generated HD images (1
 
 ### Supervised: High-Resolution Standardized Dataset
 We recommend opening the images in a new tab to see the details.
-![chi1](img/ours_chi1_cropped.jpg)
-![afr1](img/ours_cau1_cropped.jpg)
+<p align="center">
+  <img width="100%" src="img/ours_chi1_cropped.jpg">
+</p>
+<p align="center">
+  <img width="100%" src="img/ours_cau1_cropped.jpg">
+</p>
 
 ### Weakly-Supervised: FFHQ
 We recommend opening the images in a new tab to see the details.
