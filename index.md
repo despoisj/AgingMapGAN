@@ -49,7 +49,7 @@ We recommend viewing the videos in full-screen to see the generated HD images (1
 
 ### Supervised: High-Resolution Standardized Dataset
 ![chi1](img/ours_chi1_cropped.jpg)
-![afr1](img/ours_afr1_cropped.jpg)
+![afr1](img/ours_ind2_cropped.jpg)
 
 ### Weakly-Supervised: FFHQ
 ![ffhq](img/ffhq_block.jpg)
