@@ -48,11 +48,24 @@ We recommend viewing the videos in full-screen to see the generated HD images (1
 </div>
 
 ### Supervised: High-Resolution Standardized Dataset
+We recommend opening the images in a new tab to see the details.
 ![chi1](img/ours_chi1_cropped.jpg)
 ![afr1](img/ours_cau1_cropped.jpg)
 
 ### Weakly-Supervised: FFHQ
-![ffhq](img/ffhq_block.jpg)
+We recommend opening the images in a new tab to see the details.
+<p align="center">
+  <img width="49%" src="img/ffhq_cau1.jpg">
+  <img width="49%" src="img/ffhq_chi1.jpg">
+</p>
+<p align="center">
+  <img width="49%" src="img/ffhq_afr1.jpg">
+  <img width="49%" src="img/ffhq_cau5.jpg">
+</p>
+<p align="center">
+  <img width="49%" src="img/ffhq_cau3.jpg">
+  <img width="49%" src="img/ffhq_afr2.jpg">
+</p>
 
 ### Paper & Supplementary Materials
 TBD: Waiting for ECCV 2020 Proceedings
