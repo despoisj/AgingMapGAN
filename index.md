@@ -75,4 +75,4 @@ We recommend opening the images in a new tab to see the details.
 TBA: Waiting for ECCV 2020 Proceedings
 
 ### Other works
-Check out other paper presented at AIM (ECCV 2020): <a href="https://robinkips.github.io/CA-GAN/" target="_blank">https://robinkips.github.io/CA-GAN/</a>
+Check out our other paper presented at AIM (ECCV 2020): <a href="https://robinkips.github.io/CA-GAN/" target="_blank">https://robinkips.github.io/CA-GAN/</a>
