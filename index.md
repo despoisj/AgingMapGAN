@@ -73,3 +73,6 @@ We recommend opening the images in a new tab to see the details.
 
 ### Paper & Supplementary Materials
 TBA: Waiting for ECCV 2020 Proceedings
+
+### Other works
+Check out other paper presented at AIM (ECCV 2020): <a href="https://robinkips.github.io/CA-GAN/">https://robinkips.github.io/CA-GAN/</a>
