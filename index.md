@@ -89,6 +89,7 @@ TBA: Waiting for ECCV 2020 Proceedings
         </div>
     </div>
 </div>
+<br>
 
 ### Other works
 Check out our other paper presented at AIM (ECCV 2020): <a href="https://robinkips.github.io/CA-GAN/" target="_blank">https://robinkips.github.io/CA-GAN/</a>
