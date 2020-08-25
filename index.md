@@ -74,17 +74,19 @@ We recommend opening the images in a new tab to see the details.
 ### Paper & Supplementary Materials
 TBA: Waiting for ECCV 2020 Proceedings
 
-<div align="center">
+<div align="center" style="display:flex">
     <div style="width:20%;display: inline-block;">     
         <a href="https://arxiv.org/abs/2008.10599">
             <img class="layered-paper-big" style="max-height:200px" src="img/paper_thumbnail.jpg">
         </a>
     </div>
-    <div style="width:70%;display: inline-block; margin-left: 5%; text-align: left;">
-        <span style="font-size:12pt">J. Despois, F. Flament, M. Perrot</span><br>
-        <span style="font-size:12pt"><b>AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs.</b></span><br>
-        <span style="font-size:12pt">In ECCV, 2020 (AIM Workshop).</span>
-        <span style="font-size:12pt"><a href="TODO">arXiv</a></span>
+    <div style="width:70%;display: inline-block; margin-left: 5%;">
+        <div style="vertical-align:middle; text-align: left;">
+            <span style="font-size:12pt">J. Despois, F. Flament, M. Perrot</span><br>
+            <span style="font-size:12pt"><b>AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs.</b></span><br>
+            <span style="font-size:12pt">In ECCV, 2020 (AIM Workshop).</span>
+            <span style="font-size:12pt"><a href="TODO">arXiv</a></span>
+        </div>
     </div>
 </div>
 
