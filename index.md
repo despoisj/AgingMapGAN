@@ -74,7 +74,7 @@ We recommend opening the images in a new tab to see the details.
 ### Paper & Supplementary Materials
 TBA: Waiting for ECCV 2020 Proceedings
 
-<div align="center" style="display:flex">
+<div align="center" style="display:flex; margin-bottom:50px">
     <div style="width:20%;display: inline-block;">     
         <a href="TODO" target="_blank">
             <img class="layered-paper-big" style="max-height:200px" src="img/paper_thumbnail.jpg">
