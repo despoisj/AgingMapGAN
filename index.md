@@ -30,7 +30,7 @@ Existing approaches and datasets for face aging produce results skewed towards t
             </span>
             <br>
             <span style="font-size:12pt">ECCV, 2020 (AIM Workshop Oral)</span>
-            <span style="font-size:12pt"><a href="TODO" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a></span>
+            <span style="font-size:12pt"><a href="TODO" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a>&nbsp;<a href="supplementary_materials.pdf" target="_blank">[Supplementary Materials]</a></span>
         </div>
     </div>
 </div>
