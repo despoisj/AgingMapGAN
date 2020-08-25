@@ -1,0 +1,6 @@
+@inproceedings{despois2020agingmapgan,
+    title={AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs},
+    author={Julien Despois, Frederic Flament, and Matthieu Perrot},
+    booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+    year={2020}
+}
