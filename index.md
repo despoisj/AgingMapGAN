@@ -87,7 +87,7 @@ TBA: Waiting for ECCV 2020 Proceedings
                 <b>AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs.</b>
             </span>
             <br>
-            <span style="font-size:12pt">In ECCV, 2020 (AIM Workshop).</span>
+            <span style="font-size:12pt">ECCV, 2020 (AIM Workshop)</span>
             <span style="font-size:12pt"><a href="TODO" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a></span>
         </div>
     </div>
