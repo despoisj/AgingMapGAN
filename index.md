@@ -51,6 +51,8 @@ To train our model, we use four different losses: *L<sub>Age</sub>* to penalize 
 
 
 ## Results
+### Supervised: High-Resolution Standardized Dataset
+We have labeled 7000 images, using 15 clinical aging signs for each image, in order to build accurate ethnicity-specific aging maps for each individual. On this dataset, our model is able to generate aged and rejuvenated faces with complete control over the localization and amount of aging.
 
 We recommend viewing the videos in full-screen to see the generated HD images (1024px).
 <div>
@@ -72,7 +74,6 @@ We recommend viewing the videos in full-screen to see the generated HD images (1
     </video>
 </div>
 
-### Supervised: High-Resolution Standardized Dataset
 We recommend opening the images in a new tab to see the details.
 <p align="center">
   <img width="100%" src="img/ours_chi1_cropped.jpg">
@@ -82,6 +83,8 @@ We recommend opening the images in a new tab to see the details.
 </p>
 
 ### Weakly-Supervised: FFHQ
+To train our model on the FFHQ dataset, we have created labels in a weakly-supervised fashion, using regression models trained on our labeled dataset. Despite this and the challenging poses, occlusions and lighting conditions of the dataset, our approach successfully ages and rejuvenates images in high-definition.
+
 We recommend opening the images in a new tab to see the details.
 <p align="center">
   <img width="49%" src="img/ffhq_cau1.jpg">
