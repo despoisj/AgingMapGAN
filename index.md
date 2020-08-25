@@ -80,8 +80,8 @@ TBA: Waiting for ECCV 2020 Proceedings
             <img class="layered-paper-big" style="max-height:200px" src="img/paper_thumbnail.jpg">
         </a>
     </div>
-    <div style="width:70%;display: inline-block; margin-left: 5%;">
-        <div style="align-items: center; text-align: left;">
+    <div style="width:70%;display: flex; align-items: center; margin-left: 5%;">
+        <div style="text-align: left;">
             <span style="font-size:12pt">J. Despois, F. Flament, M. Perrot</span><br>
             <span style="font-size:12pt"><b>AgingMapGAN (AMGAN): High-Resolution Controllable Face Aging with Spatially-Aware Conditional GANs.</b></span><br>
             <span style="font-size:12pt">In ECCV, 2020 (AIM Workshop).</span>
