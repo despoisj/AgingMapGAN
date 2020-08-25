@@ -17,3 +17,19 @@
     padding: 1rem 1rem;
   }
 }
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    border-color: grey;
+    font-variant: normal;
+}
