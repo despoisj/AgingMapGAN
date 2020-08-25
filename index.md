@@ -16,17 +16,22 @@
 Existing approaches and datasets for face aging produce results skewed towards the mean, with individual variations and expression wrinkles often invisible or overlooked in favor of global patterns such as the fattening of the face. Moreover, they offer little to no control over the way the faces are aged and can difficultly be scaled to large images, thus preventing their usage in many real-world applications. To address these limitations, we present an approach to change the appearance of a high-resolution image using ethnicity-specific aging information and weak spatial supervision to guide the aging process. We demonstrate the advantage of our proposed method in terms of quality, control, and how it can be used on high-definition images while limiting the computational overhead.
 
 ## Model
+Our model takes a patch *p* from input image *I*, a target aging map *A*, and two orthonogal gradient images *X* and *Y*. The image patch *I<sub>p</sub>* is then transformed according to the local aging information contained in the map *A<sub>p</sub>*, while the orthogonal gradients *X<sub>p</sub>* and *Y<sub>p</sub>* provide the coordinates of the patch in a fully-convolutional manner. The conditions are injected in the generator via the SPADE block to preserve the spatial information. Finally, the generator uses an attention mechanism to only change relevant parts of the image, thus preserving the clothes, earrings and other facial features unrelated to aging.
+
 <p align="center">
   <img width="70%" src="img/model_hd.jpg">
 </p>
 
 ## Training
+To train our model, we use four different losses to penalize the aging map estimation (*L<sub>Age</sub>*), the patch localization (*L<sub>Loc</sub>*), the realism of the generated images (*L<sub>WGAN</sub>*), and the fidelity to the original image (*L<sub>Cyc</sub>*).
+
 <p align="center">
   <img width="70%" src="img/training_hd.jpg">
 </p>
 
 
 ## Results
+
 We recommend viewing the videos in full-screen to see the generated HD images (1024px).
 <div>
     <video style="margin: 0 auto; width: 49%" controls>
