@@ -17,12 +17,12 @@ Existing approaches and datasets for face aging produce results skewed towards t
 
 ## Model
 <p align="center">
-  <img width="80%" src="img/model_hd.jpg">
+  <img width="70%" src="img/model_hd.jpg">
 </p>
 
 ## Training
 <p align="center">
-  <img width="80%" src="img/training_hd.jpg">
+  <img width="70%" src="img/training_hd.jpg">
 </p>
 
 
