@@ -88,7 +88,7 @@ TBA: Waiting for ECCV 2020 Proceedings
             </span>
             <br>
             <span style="font-size:12pt">In ECCV, 2020 (AIM Workshop).</span>
-            <span style="font-size:12pt"><a href="TODO" target="_blank">[arXiv]</a><a href="bibtex.txt" target="_blank">[BibTeX]</a></span>
+            <span style="font-size:12pt"><a href="TODO" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a></span>
         </div>
     </div>
 </div>
