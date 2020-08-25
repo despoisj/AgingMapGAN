@@ -23,7 +23,7 @@ Our model takes a patch *p* from input image *I*, a target aging map *A*, and tw
 </p>
 
 ## Training
-To train our model, we use four different losses to penalize the aging map estimation (*L<sub>Age</sub>*), the patch localization (*L<sub>Loc</sub>*), the realism of the generated images (*L<sub>WGAN</sub>*), and the fidelity to the original image (*L<sub>Cyc</sub>*).
+To train our model, we use four different losses: *L<sub>Age</sub>* to penalize the aging map estimation, *L<sub>Loc</sub>* for the patch localization, *L<sub>WGAN</sub>* for the realism of the generated images, and *L<sub>Cyc</sub>* for the fidelity to the original image.
 
 <p align="center">
   <img width="70%" src="img/training_hd.jpg">
