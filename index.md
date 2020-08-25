@@ -36,7 +36,7 @@ Existing approaches and datasets for face aging produce results skewed towards t
 </div>
 
 ## Model
-Our model takes a patch *p* from input image *I*, a target aging map *A*, and two orthonogal gradient images *X* and *Y*. The image patch *I<sub>p</sub>* is then transformed according to the local aging information contained in the map *A<sub>p</sub>*, while the orthogonal gradients *X<sub>p</sub>* and *Y<sub>p</sub>* provide the coordinates of the patch in a fully-convolutional manner. The conditions are injected in the generator via the SPADE block to preserve the spatial information. Finally, the generator uses an attention mechanism to only change relevant parts of the image, thus preserving the clothes, earrings and other facial features unrelated to aging.
+Our model takes a patch *p* from the input image *I*, a target aging map *A*, and two orthonogal gradient images *X* and *Y*. The image patch *I<sub>p</sub>* is then transformed according to the local aging information contained in the map *A<sub>p</sub>*, while the orthogonal gradients *X<sub>p</sub>* and *Y<sub>p</sub>* provide the coordinates of the patch in a fully-convolutional manner. The conditions are injected in the generator via the SPADE block to preserve the spatial information. Finally, the generator uses an attention mechanism to only change relevant parts of the image, thus preserving the clothes, earrings and other facial features unrelated to aging.
 
 <p align="center">
   <img width="70%" src="img/model_hd.jpg">
