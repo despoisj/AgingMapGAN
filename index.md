@@ -18,7 +18,7 @@ Existing approaches and datasets for face aging produce results skewed towards t
 ### Paper & Supplementary Materials
 <div align="center" style="display:flex; margin-bottom:50px; margin-top: 30px;">
     <div style="width:20%;display: inline-block;">     
-        <a href="TODO" target="_blank">
+        <a href="https://arxiv.org/abs/2008.10960" target="_blank">
             <img class="layered-paper-big" style="max-height:200px" src="img/paper_thumbnail.jpg">
         </a>
     </div>
@@ -30,7 +30,7 @@ Existing approaches and datasets for face aging produce results skewed towards t
             </span>
             <br>
             <span style="font-size:12pt">ECCV, 2020 (AIM Workshop Oral)</span>
-            <span style="font-size:12pt"><a href="TODO" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a>&nbsp;<a href="supplementary_materials.pdf" target="_blank">[Supplementary Materials]</a></span>
+            <span style="font-size:12pt"><a href="https://arxiv.org/abs/2008.10960" target="_blank">[arXiv]</a>&nbsp;<a href="bibtex.txt" target="_blank">[BibTeX]</a>&nbsp;<a href="supplementary_materials.pdf" target="_blank">[Supplementary Materials]</a></span>
         </div>
     </div>
 </div>
